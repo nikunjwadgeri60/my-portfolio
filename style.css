@@ -231,7 +231,7 @@ header .follow a:hover{
 
 .about .row-1 .content p{
     color:#666;
-    font-size: 1.7rem;
+    font-size: 3.3rem;
     padding:.5rem 0;
 }
 
@@ -243,7 +243,7 @@ header .follow a:hover{
 }
 
 .about .row-1 .content .box-container .box{
-    flex:1 1 20rem;
+    flex:1 1 60rem;
 }
 
 .about .row-1 .content .box-container .box span{
